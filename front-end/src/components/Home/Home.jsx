@@ -3,6 +3,7 @@ import { useState } from 'react'
 import './Home.css'
 import Iframe from 'react-iframe'
 import { Test, QuestionGroup, Question, Option } from 'react-multiple-choice'
+import { signInWithGoogle } from '../../firebase'
 
 const Home = () => {
     // video URL - empty originally 
@@ -14,6 +15,7 @@ const Home = () => {
     const [state, setState] = useState({
         selectedOptions: {}
     });
+
     // YT video 
 
     // fetch video
@@ -27,7 +29,9 @@ const Home = () => {
 
     return (
     <div className="container">
-        
+        <button class="login-with-google-btn" onClick={signInWithGoogle}>
+            Sign in with Google
+        </button>
         {/* 1) Search Bar/Title */}
         <div className="SearchBarTitleSection">
             {/* If video has not been fetched, show URL bar */}

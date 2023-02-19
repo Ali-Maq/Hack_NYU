@@ -1,0 +1,6 @@
+<OpenAIObject at 0x7ff3118579a0> JSON: {
+  "finish_reason": "stop",
+  "index": 0,
+  "logprobs": null,
+  "text": "\n\nQ1: What is the name of the speaker in the text?\nA. John Green \nB. King Tut \nC. Horus \nD. Assyrian King\n\nAnswer: A. John Green \nExplanation: John Green is the speaker in the text. He is introducing the topic of Ancient Egypt. \n\nQ2: What is the most influential of the river valley civilizations?\nA. Assyria \nB. Egypt \nC. Persia \nD. India\n\nAnswer: B. Egypt \nExplanation: Ancient Egypt is the most influential of the river valley civilizations. \n\nQ3: What is the Eye of Horus?\nA. A pyramid \nB. An ancient wonder \nC. A symbol of judgement \nD. A river valley\n\nAnswer: C. A symbol of judgement \nExplanation: The Eye of Horus is a symbol of judgement that John Green can feel. \n\nQ4: When did Ancient Egyptian civilization last?\nA. 3000 BCE - 332 BCE \nB. 2000 BCE - 1000 BCE\nC. 4000 BCE - 2000 BCE \nD. 1000 BCE - 500 BCE\n\nAnswer: A. 3000 BCE - 332 BCE \nExplanation: Ancient Egyptian civilization lasted from 3000 BCE to 332 BCE. \n\nQ5: What is one of the Seven Ancient Wonders of the World?\nA. The Eye of Horus \nB. The Great Wall of China \nC. The Pyramids \nD. The Hanging Gardens of Babylon\n\nAnswer: C. The Pyramids \nExplanation: The Pyramids are one of the Seven Ancient Wonders of the World."
+}

@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "browserify-zlib": "^0.2.0",
     "firebase": "^9.17.1",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^6.8.1",
+    "recharts": "^2.4.3",
+    "url": "^0.11.0",
+    "youtube-transcript": "^1.0.4"
   }
 }
